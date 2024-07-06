@@ -32,7 +32,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
     ```bash
     git clone https://github.com/srishti-1430/llama2-chatbot.git
-    cd langchain-medical-bot
+    cd llama2-chatbot
     ```
 
 2. Create a Python virtual environment (optional but recommended):
